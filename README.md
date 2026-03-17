@@ -62,7 +62,7 @@ created by seskah@amazon.com aka. Haroldas
 
 6. (optional) Click on "FUTURE PLAN" In order to get future plan of instructors for easier booking.
      				
-<img width="1099" height="965" alt="image" src="https://github.com/user-attachments/assets/9b38c626-9ef6-4666-8e0e-82c45f5456c4" />
+<img width="1099" height="965" alt="image" src="https://github.com/user-attachments/assets/265274a6-5a53-44a1-b19f-c33cfc819988" />
 
 7. (optional) Future plan will be generated and displayed on a separate spreadsheet (as in example bellow).
      				
